@@ -1,7 +1,7 @@
 const About = ({setNav}) => {
     return ( 
         <div onClick={()=>setNav(false)} className="flex-auto  bg-gray-800 w-full h-full overflow-auto  bg-gray-800">
-            <div className="max-w-[1000px] w-full h-full min-h-[40rem] overflow-hidden mx-auto flex justify-center px-4 flex-col items-center">
+            <div className="max-w-[1000px] w-full h-full min-h-[30rem] overflow-hidden mx-auto flex justify-center px-4 flex-col items-center">
                <div>
                    <h1 className=" text-4xl text-gray-500 mb-2 font-bold border-b-4 ">About Me</h1>
                </div>

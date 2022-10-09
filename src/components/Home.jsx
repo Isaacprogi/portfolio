@@ -3,7 +3,7 @@ import Resume from "../../src/assets/Isaac.pdf"
 import Me from '../img/me.jpg'
 const Home = ({ setNav }) => {
     return <div onClick={() => setNav(false)} className=" flex-auto bg-gray-800 overflow-auto">
-        <div className="max-w-[1000px] min-h-[40rem] h-full w-full relative mx-auto grid sm:grid-cols-2  overflow-hidden   ">
+        <div className="max-w-[1000px] min-h-[35rem] h-full w-full relative mx-auto grid sm:grid-cols-2  overflow-hidden   ">
             <div className="absolute top-0 w-full h-1/2"></div>
             <div className="bg-gray-800 h-full w-full flex items-center flex-col justify-center px-2">
                 <p className="text-pink-100 mb-3 ">
