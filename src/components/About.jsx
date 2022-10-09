@@ -11,7 +11,7 @@ const About = ({setNav}) => {
                       self in coding activities
                      from his first year in the university. As he continued coding, it became crystal clear obvious that this
                       was what he wanted to do corresponding with his initial intentions. His goal is to provide as much help as possible to where a call is made. With
-                      his knowledge of the listed skills, He is able to deliver on every corresponding or "to be informed" given assignment.
+                      his knowledge of the listed skills, he is able to deliver on every corresponding given assignment.
                      Isaac will like to say that a programmer that really knows it, does it. This remains his standard for progressive,
                      substantial and higher achievements.
                  </p>
