@@ -8,7 +8,7 @@ const Contact = () => {
 
     return <div className='flex-auto   overflow-auto bg-gray-800'>
 
-        <div className="w-full max-w-[1000px] min-h-[20rem] mx-auto gap-3 h-full  overflow-hidden relative grid sm:place-content-center overflow-auto  p-5 sm:grid-cols-2 ">
+        <div className="w-full max-w-[1000px] min-h-[30rem] mx-auto gap-3 h-full  overflow-hidden relative grid sm:place-content-center overflow-auto  p-5 sm:grid-cols-2 ">
             <div className="h-full w-full   flex flex-col items-center justify-center ">
                 <h1 className="text-3xl font-bold text-white px-2 rounded-md bg-gradient-to-r from-cyan-600">Contact Me</h1>
                 <span className="text-gray-400">You can send me a message</span>
