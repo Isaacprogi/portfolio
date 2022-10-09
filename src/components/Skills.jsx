@@ -8,7 +8,7 @@ import TailWind from '../../src/assets/tailwind.png'
 import Mongo from '../../src/assets/mongo.png'
 const Skills = () => {
   return <div className='flex-auto w-full h-screen overflow-auto bg-gray-800'>
-    <div className="max-w-[1000px] mx-auto w-full h-full flex items-center min-h-[20rem] overflow-hidden  flex-col justify-center">
+    <div className="max-w-[1000px] mx-auto w-full h-full flex items-center min-h-[30rem] overflow-hidden  flex-col justify-center">
       <div>
         <h1 className=" text-4xl text-gray-500 mb-4 sm:mb-3 sm:text-3xl font-bold border-b-4 ">My Skills</h1>
       </div>

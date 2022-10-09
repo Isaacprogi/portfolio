@@ -12,8 +12,9 @@ const Works = () => {
                 
                 <span className="absolute bg-blue-600  opacity-[.5] text-white flex items-center justify-center bottom-0 w-full h-[4rem]">
                 </span>
-                <span className="absolute flex items-center justify-center text-[.9rem] text-white w-full h-[4rem] bottom-0">
-                     Schedula app with user authentication using react
+                <span className="absolute flex items-center flex-col justify-center text-[.9rem] text-white w-full h-[4rem] bottom-0">
+                     Schedula app with user authentication
+                     <p>using react</p>
                      </span>
             </div>
            </a>
